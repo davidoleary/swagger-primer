@@ -1,6 +1,7 @@
 # Skeleton project for Swagger
 
 - This is just the result of this nice swagger tutorial https://scotch.io/tutorials/speed-up-your-restful-api-development-in-node-js-with-swagger
+- To add swagger to an existing project follow: https://blog.cloudboost.io/adding-swagger-to-existing-node-js-project-92a6624b855b
 
 Install swagger and create project
 
